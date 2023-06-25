@@ -1,0 +1,13 @@
+django==4.1.7
+openpyxl==3.0.10
+pandas==1.5.2
+imageio==2.26.0
+matplotlib==3.7.1
+pydicom==2.3.1
+scipy==1.10.1
+tensorflow==2.10.0
+opencv-python==4.6.0.66
+pillow==9.2.0
+dash==2.7.0
+dash-bootstrap-components==1.2.1
+whitenoise==6.4.0
